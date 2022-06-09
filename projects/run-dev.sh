@@ -1,2 +1,2 @@
 docker build -t projects -f Dockerfile.dev .
-docker run -p 8080:8080 projects
+docker run -p 4000:4000 projects
